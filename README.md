@@ -22,3 +22,23 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# アプリケーション名
+
+book_memo
+
+# アプリケーション概要
+
+・ユーザー登録機能（nickname, email, password)
+・本投稿機能(image, text)
+・コメント投稿機能(text)
+
+
+
+# er図
+
+url: 
+
+# 
+
+
